@@ -1,4 +1,3 @@
-# [Breast Cancer Classification](https://github.com/Ronikoyi/breast-cancer-classification)
 
 Machine learning classification model achieving 97.37% accuracy in distinguishing malignant from benign breast tumors using the Wisconsin Breast Cancer Dataset.
 
