@@ -1,4 +1,4 @@
-# Breast Cancer Classification
+# [Breast Cancer Classification](https://github.com/Ronikoyi/breast-cancer-classification)
 
 Machine learning classification model achieving 97.37% accuracy in distinguishing malignant from benign breast tumors using the Wisconsin Breast Cancer Dataset.
 
@@ -9,6 +9,13 @@ This project demonstrates:
 - Model comparison and optimization 
 - Medical context-aware threshold tuning
 - Hyperparameter optimization
+
+## How to Explore This Project
+This project is best viewed as an **interactive Jupyter Notebook**.  
+**[View the Full Notebook (HTML)](https://ronikoyi.github.io/breast-cancer-classification/breast_cancer_classification.html)**  
+**[View the Raw Notebook (.ipynb) on nbviewer](https://nbviewer.org/github/Ronikoyi/breast-cancer-classification/blob/main/breast_cancer_classification.ipynb)**  
+
+---
 
 ## Key Results
 - 97.37% accuracy (Random Forest, SVM)
@@ -37,6 +44,3 @@ Wisconsin Breast Cancer Dataset from UCI ML Repository:
 - numpy
 - matplotlib
 - seaborn
-
-**View Full Jupyter Notebook**:  
-[Click here to open in nbviewer](https://nbviewer.org/github/Ronikoyi/breast-cancer-classification/blob/main/breast_cancer_classification.ipynb)
