@@ -9,8 +9,6 @@ This project demonstrates:
 - Hyperparameter optimization
 
 ## How to Explore This Project
-This project is best viewed as an **interactive Jupyter Notebook**.  
-**[View the Full Notebook (HTML)]([https://ronikoyi.github.io/breast-cancer-classification/breast_cancer_classification.html](https://github.com/Ronikoyi/breast_cancer_classification/blob/main/breast_cancer_classification.html))**  
 **[View the Raw Notebook (.ipynb) on nbviewer](https://nbviewer.org/github/Ronikoyi/breast-cancer-classification/blob/main/breast_cancer_classification.ipynb)**  
 
 ---
