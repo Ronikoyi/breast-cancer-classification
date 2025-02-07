@@ -37,3 +37,6 @@ Wisconsin Breast Cancer Dataset from UCI ML Repository:
 - numpy
 - matplotlib
 - seaborn
+
+**View Full Jupyter Notebook**:  
+[Click here to open in nbviewer](https://nbviewer.org/github/Ronikoyi/breast-cancer-classification/blob/main/breast_cancer_classification.ipynb)
