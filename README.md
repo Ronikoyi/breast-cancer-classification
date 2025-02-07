@@ -1,4 +1,3 @@
-
 Machine learning classification model achieving 97.37% accuracy in distinguishing malignant from benign breast tumors using the Wisconsin Breast Cancer Dataset.
 
 ## Overview
